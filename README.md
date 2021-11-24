@@ -8,4 +8,4 @@ sidebarDepth: 2
 
 # Ethereum Whitepaper {#ethereum-whitepaper}
 
-_This introductory paper was originally published in 2013 by Vitalik Buterin, the founder of [Ethereum](/what-is-ethereum/), before the project's launch in 2015. It's worth noting that Ethereum, like many community-driven, open-source software projects, has evolved since its initial inception._
+_This introductory paper was originally published in 2013 by Vitalik Buterin, the founder of Ethereum, before the project's launch in 2015. It's worth noting that Ethereum, like many community-driven, open-source software projects, has evolved since its initial inception._
